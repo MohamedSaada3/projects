@@ -1,0 +1,6 @@
+i got the name of the companies in a np array
+next i will try to loop through this 
+and make an application to count the 
+total sales of each company and
+put these into a data frame that 
+has each company and its sales 
